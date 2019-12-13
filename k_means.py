@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.io import loadmat
-from centroids import Centroid
+
 
 # Read input mat file using scipy
 x = loadmat('data2.mat')
